@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff" />
 </p>
 
-## 🧩 Some of the React Components I’ve Built
+### 🧩 Some of the React Components I’ve Built
 
 | UI Elements                                                                                     | Inputs & Forms                                                                                          | Payments & Scanning                                                                                         | Media                                                                                                 | Navigation & Helpers                                                                                              |
 |-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@
 | 📚 [Accordion](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-accordion) | 📝 [Rich Editor](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-rich-editor)     | 📎 [Barcode Scanner](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-barcode-scanner) |                                                                                                       |                                                                                                                   |
 | ✨ [Particles](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-particles)  | 🌲 [TreeSelect](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-tree-select)      | 💳 [Credit Card](https://github.com/serhmel/ui-builder-library/tree/main/components/bl-credit-card)         |                                                                                                       |                                                                                                                   |
 
-## 📬 Contact Me
+### 📬 Contact Me
 
 - Email: [serh.mel@gmail.com](mailto:serh.mel@gmail.com)
 - Telegram: [@serhmel](https://t.me/serhmel)

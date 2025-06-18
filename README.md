@@ -42,7 +42,7 @@
 
 ---
 
-<p align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=serhmel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhmel&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img height="135px" src="https://github-readme-stats.vercel.app/api?username=serhmel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=tokyonight" /> <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhmel&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" /> </p>
 
 ---
 

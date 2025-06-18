@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Serhiy 👋</h1>
+<h2 align="center">Hi there, I'm Serhiy 👋</h2>
 
 <p align="center">
     Frontend Developer • JavaScript & React • BigCommerce & Shopify

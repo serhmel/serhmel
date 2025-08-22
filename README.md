@@ -6,18 +6,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" />
   <img src="https://img.shields.io/badge/-React%20Hooks-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" />
   <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff" />
   <img src="https://img.shields.io/badge/-LESS-1D365D?logo=less&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/-REST%20API-000?logo=postman&logoColor=orange" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff" />
   <img src="https://img.shields.io/badge/-BigCommerce-121118?logo=bigcommerce&logoColor=fff" />
   <img src="https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=fff" />
   <img src="https://img.shields.io/badge/-JSON-000?logo=json&logoColor=white" />
